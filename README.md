@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sai Charan Katkam</h1>
-<h3 align="center">A passionate Cyber security Analyst and experienced Front end developer</h3>
-<p>Detailed-oriented junior cyber security graduate with a background in python, bash
-scripting, and penetration testing and competent Front End Developer, Junior
-ReactJS professional with 2 years of commercial experience and skills in achieving
-greater organizational efficiency & profitability.</p>
+<h3 align="center">A passionate Junior Data Analyst</h3>
+<p>Enthusiastic and dedicated Junior Data Analyst with a passion for extracting insights from complex datasets. Currently undergoing a Government-funded Data Analytics Bootcamp and holding a Certified Google Data Analytics Professional certificate. Eager to apply theoretical knowledge and practical skills in a dynamic work environment to contribute to data-driven decision-making processes.</p>
 
-- 🌱 I’m currently learning **Cyber Security and Python language Bootcamp from HyperionDev**
+- 🌱 I’m currently learning **Data Analystics Bootcamp from Netcom Training**
 
 - 👨‍💻 All of my projects are available at [https://saicharan-katkam-portfolio.netlify.app/](https://saicharan-katkam-portfolio.netlify.app/)
 
 - 📫 How to reach me **ks.cheran93@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XfeG8oE0XoVIZlwpopwlGtp46hTh59Zr/view?usp=sharing](https://drive.google.com/file/d/1XfeG8oE0XoVIZlwpopwlGtp46hTh59Zr/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1XfeG8oE0XoVIZlwpopwlGtp46hTh59Zr/view?usp=sharing](https://drive.google.com/file/d/1XfeG8oE0XoVIZlwpopwlGtp46hTh59Zr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
